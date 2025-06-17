@@ -1,0 +1,6 @@
+Epoch [1/50], Loss: 0.6595872640609741
+Accuracy of the model on the validation: 74.05 %
+Epoch [2/50], Loss: 0.6714392304420471
+Accuracy of the model on the validation: 74.05 %
+Epoch [3/50], Loss: 0.656042754650116
+Accuracy of the model on the validation: 74.05 %
